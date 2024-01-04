@@ -1,2 +1,2 @@
 # Bankruptcy-Prevention
-Data Science Project
+The objective of this project was to develop a predictive model aimed at anticipating and preventing instances of bankruptcy for companies within a given industry or sector. By leveraging machine learning algorithms and advanced statistical analysis techniques, the primary goal was to create a robust predictive tool capable of identifying early warning signals and risk factors associated with potential financial distress.
